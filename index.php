@@ -2,7 +2,7 @@
 
 <body>
     <?php
-    echo "<h3>Tjoflöjt</h3>";
+    echo "<h2>Tjoflöjt</h2>";
     ?>
 </body>
 
