@@ -1,3 +1,9 @@
-<?php
-echo "<h3>Tjoflöjt</h3>";
-?>
+<html>
+
+<body>
+    <?php
+    echo "<h2>Tjoflöjt</h2>";
+    ?>
+</body>
+
+</html>
